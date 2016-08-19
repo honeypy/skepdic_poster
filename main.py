@@ -278,8 +278,8 @@ class Worker:
         print(text)
 
 
-email = '100clicks@gmail.com'
-password = 'datapeacescience'
+email = config.email    
+password = config.password
 
 reposter = Worker(email, password)
 reposter.main()
