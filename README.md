@@ -1,5 +1,5 @@
 # skepdic_poster
 
-Зависимости:\n
-http://vk.readthedocs.io/en/latest/\n
+Зависимости:
+http://vk.readthedocs.io/en/latest/
 http://facebook-sdk.readthedocs.io/en/latest/api.html
